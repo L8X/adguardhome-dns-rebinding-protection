@@ -41,12 +41,14 @@
 ||fritz.repeater^$important
 ||giga.cube^$important
 ||hi.link^$important
+||hotspot^$important
 ||hitronhub.home^$important
 ||homerouter.cpe^$important
 ||hole^$important
 ||ip^$important
 ||huaweimobilewifi.com^$important
 ||myfritz.box^$important
+||mobile.hotspot^$important
 ||ntt.setup^$important
 ||nas^$important
 ||pi.hole^$important
@@ -57,6 +59,7 @@
 ||router.asus.com^$important
 ||routerlogin.com^$important
 ||routerlogin.net^$important
+||steamloopback.host^$important
 ||samsung.router^$important
 ||speedport.ip^$important
 ||setup^$important
