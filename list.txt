@@ -52,6 +52,7 @@
 ||plex.direct^$important
 ||repeater^$important
 ||repeater.asus.com^$important
+||router^$important
 ||router.asus.com^$important
 ||routerlogin.com^$important
 ||routerlogin.net^$important
