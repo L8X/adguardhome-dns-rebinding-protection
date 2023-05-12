@@ -2,6 +2,7 @@
 ||localnet^$important
 ||localdomain^$important
 ||lan^$important
+||localhost^$important
 ||ip6-localhost^$important
 ||wpad^$important
 ||invalid^$important
